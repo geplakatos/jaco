@@ -1,1 +1,9 @@
-test
+Simple remote controller for windows based on java.
+
+Start with release/run.bat. It will open an elevated privilaged level java application which 
+can controll the mouse and the keyboard at basic level.
+
+After the server started you can open the local machine(the server log the actual ip to the terminal) webserver on your
+smart device's browser and can controll the mouse and the keyboard remotely.
+
+
